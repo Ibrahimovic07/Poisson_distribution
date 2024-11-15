@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+
+## Name : Mohammed Ibrahim MN 
+## Roll No : 212223100034
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
