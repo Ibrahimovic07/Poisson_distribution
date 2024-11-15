@@ -1,4 +1,8 @@
 # Fitting Poisson  distribution
+
+## Name : Mohammed Ibrahim MN
+## Roll No : 212223100034
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -73,4 +77,3 @@ else:
 # Results
 
 The Poisson distribution is fitted for the objects arrived from feeder per minute and the data is tested using Chi-square test. 
- 
